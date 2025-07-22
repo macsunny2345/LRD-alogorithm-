@@ -1,0 +1,2 @@
+# LRD-alogorithm-
+LRD alogorithm 
